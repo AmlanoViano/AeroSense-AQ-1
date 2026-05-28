@@ -84,21 +84,7 @@ FX-AeroSense-AQ1/
 ├── .gitignore
 └── README.md
 ```
-
 ---
-
-## Dependencies
-
-Install via Arduino Library Manager:
-
-- `RTClib` — Adafruit
-- `Adafruit SHT31 Library` — Adafruit
-- `MHZ19` — Jonathan Dempsey
-- `Sensirion I2C SPS30` — Sensirion
-- `SD`, `Wire`, `SPI` — bundled with ESP32 Arduino core
-
----
-
 ## License
 
 MIT © FX AeroSense
