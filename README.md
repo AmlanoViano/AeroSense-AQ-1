@@ -1,8 +1,8 @@
-# FX AeroSense AQ-1
+# AeroSense AQ-1
 
 > Drone-mounted air quality monitor for spatial pollution mapping over Dhaka, Bangladesh.
 
-Built on an ESP32, the AQ-1 logs particulate matter, CO₂, NOₓ, temperature, and humidity to a timestamped CSV at 5-second intervals during flight.
+Built on an ESP32S3, the AQ-1 logs particulate matter (PM2.5 and PM10), CO, NOₓ, temperature, and humidity to a timestamped CSV at 5-second intervals during flight.
 
 ---
 
