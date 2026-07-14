@@ -32,8 +32,6 @@ ESP32-S3 GPIO 2  (MISO)──── microSD
 ESP32-S3 GPIO 6  (SCK) ──── microSD
 ```
 
-> **Note:** GPIO 1 and 3 are shared with USB-Serial on some ESP32-S3 boards — watch for upload/boot issues once the SD card is wired in.
-
 ---
 
 ## CSV output format
